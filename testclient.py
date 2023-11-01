@@ -1,5 +1,5 @@
 # Il programma invia un saluto al server
-# contro modifica dortu su branch prova
+#  modifica 3 dortu su branch prova
 
 from classi.send_receve_sock import SRS
 import socket
